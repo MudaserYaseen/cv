@@ -1,0 +1,124 @@
+.page
+{
+width:1000px;
+height:1970px;
+border-style:groove;
+
+}
+.headerpart{
+width:1000px;
+height:70px;
+text-align:center;
+font-family:Times New Romen;
+font-size:40px;
+color:white;
+background-color:rgb(0,0,102);
+
+}
+.headerpartone{
+width:1000px;
+height:355px;
+background-image:url('C:/Users/Mudaser yaseen/Desktop/image/rcet.jpg');
+}
+.linkspart{
+width:1000px;
+height:30px;
+background-color:rgb(0,0,102);
+border-style:groove;
+}
+.linkspart a{
+color:rgb(245,246,251);
+font-size:20;
+text-decoration:none;
+}
+.linkspart a:hover{
+background-color:rgb(245,246,251);
+color:rgb(0,0,102);
+}
+
+.bodypart{
+width:1000px;
+height:600px;
+
+}
+.bodypart .text{
+width:1000px;
+height:270px;
+
+
+}
+.bodypart .dep{
+width:995px;
+height:210px;
+}
+
+.bodypart .dep .featureone{
+
+width:500px;
+height:200px;
+text-align:center;
+float:right;
+border-style:groove;
+
+}
+.bodypart .dep .featurethree{
+width:480px;
+height:200px;
+margin-right:2px;
+text-align:center;
+float:right;
+border-style:groove;
+
+}
+
+.bodypart .info{
+
+width:1000px;
+height:240px;
+font-family:Times New Romen;
+color:white;
+background-color:rgb(0,0,102);
+border-style:groove;
+}
+.bodypart .info h2
+{
+color:white;
+}
+.bodypart .uet{
+width:1000px;
+height:300px;
+}
+.bodypart .uet .symbol{
+width:500px;
+height:290px;
+display:inline-block;
+ }  
+.bodypart .uet .wel{
+width:470px;
+height:290px;
+float:right;
+}            
+.bodypart .footerpart
+{
+width:990px;
+height:470px;
+background-color:rgb(0,0,102);
+}
+.bodypart .footerpart .cd
+{
+width:500px;
+height:500px;
+font-family:Times New Romen;
+color:white;
+float:left;
+}
+
+
+.bodypart .footerpart .link
+{
+width:490px;
+height:490px;
+font-family:Times New Romen;
+text-align:center;
+float:right;
+decoration:none;}
